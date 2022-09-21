@@ -1,0 +1,12 @@
+library(readxl)
+
+df <- read_excel("data/StateData.xlsx")
+View(df)
+subDF <- subset(df, governor == "Republican",select=c("state_code","State","governor"))
+View(subDF)
+subDF1 <- subset(df,governor == "Republican" & openness > 40 & instagram > 0.40 & facebook >0.40,select=c("state_code","State","openness","instagram","facebook","governor"))
+View(subDF1)
+nrow(subDF1)
+nrow(df)
+subDF2 <- subset(df,instagram > facebook, select = c("state_code","State"))
+View(subDF2)

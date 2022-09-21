@@ -1,0 +1,28 @@
+{
+    "id": "53D42849",
+    "path": "~/Desktop/r-tutorial/R_first_Project/25-04-2022.r",
+    "project_path": "25-04-2022.r",
+    "type": "r_source",
+    "hash": "1445754094",
+    "contents": "",
+    "dirty": false,
+    "created": 1651135312183.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "105,0",
+        "scrollLine": "99",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1651661316,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651661316280,
+    "read_only": false,
+    "read_only_alternatives": []
+}
